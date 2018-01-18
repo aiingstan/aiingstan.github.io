@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Sample: This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+> 笔记就是一堆你记录的时候觉得很有用的东西，不过记录下来的东西不去深入理解以及整理，很快就会变成一堆你永远不想触碰的东西
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+> 所以，有必要把他们变成连贯的博文，当有了更深的理解的时候，记得更新
