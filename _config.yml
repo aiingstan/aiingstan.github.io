@@ -16,6 +16,9 @@
 title: Blogs
 email:
 description: >- # this means to ignore newlines until "baseurl:"
+header_pages:
+  - category/blog.md
+  - about.md
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
