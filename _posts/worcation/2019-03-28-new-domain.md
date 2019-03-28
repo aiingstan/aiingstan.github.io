@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "Checkout This New Domain"
+title:         "Checkout The Domain"
 date:          2019-03-28 14:32:00 -0700
 categories:    blog
 ---
